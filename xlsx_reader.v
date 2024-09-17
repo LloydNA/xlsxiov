@@ -1,4 +1,4 @@
-module vxlsx_io
+module vxlsxio
 
 // C Structs
 @[typedef]

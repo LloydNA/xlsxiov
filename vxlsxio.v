@@ -1,4 +1,4 @@
-module vxlsx_io
+module vxlsxio
 
 #flag -lxlsxio_read
 #include <xlsxio_read.h>
@@ -6,4 +6,4 @@ module vxlsx_io
 #flag -lxlsxio_write
 #include <xlsxio_wrrite.h>
 
-pub const vxlsx_io_null = unsafe { nil }
+pub const vxlsxio_null = unsafe { nil }

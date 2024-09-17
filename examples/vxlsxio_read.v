@@ -1,4 +1,4 @@
-import LloydNA.vxlsxio
+import lloydna.vxlsxio
 
 fn main() {
   path := './test.xlsx'
@@ -15,7 +15,7 @@ fn main() {
   sheet_name := 'MySheet'
   println('Contents of $sheet_name sheet:')
 
-  sht := vxlsxio.xlsxioread_sheet_open(reader, sheet_name, vxlsx_io.xlsxioread_skip_empty_rows) or {
+  sht := vxlsxio.xlsxioread_sheet_open(reader, sheet_name, vxlsxio.xlsxioread_skip_empty_rows) or {
     println(err)
     return
   }

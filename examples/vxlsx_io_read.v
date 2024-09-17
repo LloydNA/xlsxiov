@@ -15,7 +15,7 @@ fn main() {
   sheet_name := 'MySheet'
   println('Contents of $sheet_name sheet:')
 
-  sht := vxlsx_io.xlsxioread_sheet_open(reader, sheet_name, vxlsx_io.XLSXIOREAD_SKIP_EMPTY_ROWS) or {
+  sht := vxlsx_io.xlsxioread_sheet_open(reader, sheet_name, vxlsx_io.xlsxioread_skip_empty_rows) or {
     print(err)
     return
   }
@@ -27,7 +27,7 @@ fn main() {
 
   for vxlsx_io.xlsxioread_sheet_next_row(sht) != 0 {
     for {
-      cell_value := xlsxioread_sheet_next_cell(sht) or {
+      cell_value := vxlsx_io.xlsxioread_sheet_next_cell(sht) or {
         // No more cells left to read, so going into the next row
         break
       }

@@ -1,5 +1,5 @@
 Module {
-        name: 'vxlsxio'
+        name: 'xlsxiov'
         description: 'A V lang wrapper around C library xlsxio by brechtsanders: https://github.com/brechtsanders/xlsxio'
         version: '0.0.1'
         license: 'MIT'

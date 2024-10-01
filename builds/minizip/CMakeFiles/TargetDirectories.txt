@@ -1,0 +1,7 @@
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/minizip.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/edit_cache.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/rebuild_cache.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/list_install_components.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/install.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/install/local.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/minizip/CMakeFiles/install/strip.dir

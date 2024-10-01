@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libxlsxio_read
+Version: 0.2.36
+Description: C library for writing .xlsx files
+URL: https://github.com/brechtsanders/xlsxio
+#Requires: 
+Cflags: -I${includedir}
+Libs: -L${libdir} -lxlsxio_read -L/usr/local/lib -lminizip -L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/lib -lz -L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/lib -lexpat
+#Libs.private: 

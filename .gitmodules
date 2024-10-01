@@ -1,3 +1,9 @@
 [submodule "extern/xlsxio"]
 	path = extern/xlsxio
 	url = https://github.com/brechtsanders/xlsxio.git
+[submodule "extern/libexpat"]
+	path = extern/libexpat
+	url = https://github.com/libexpat/libexpat
+[submodule "extern/minizip"]
+	path = extern/minizip
+	url = https://github.com/zlib-ng/minizip-ng

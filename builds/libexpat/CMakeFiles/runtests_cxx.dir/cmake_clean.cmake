@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/runtests_cxx.dir/lib/xmlparse.c.o"
+  "CMakeFiles/runtests_cxx.dir/lib/xmlparse.c.o.d"
+  "CMakeFiles/runtests_cxx.dir/lib/xmlrole.c.o"
+  "CMakeFiles/runtests_cxx.dir/lib/xmlrole.c.o.d"
+  "CMakeFiles/runtests_cxx.dir/lib/xmltok.c.o"
+  "CMakeFiles/runtests_cxx.dir/lib/xmltok.c.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/acc_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/acc_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/alloc_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/alloc_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/basic_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/basic_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/chardata_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/chardata_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/common_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/common_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/dummy_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/dummy_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/handlers_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/handlers_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/memcheck_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/memcheck_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/minicheck_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/minicheck_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/misc_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/misc_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/ns_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/ns_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/nsalloc_tests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/nsalloc_tests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/runtests_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/runtests_cxx.cpp.o.d"
+  "CMakeFiles/runtests_cxx.dir/tests/structdata_cxx.cpp.o"
+  "CMakeFiles/runtests_cxx.dir/tests/structdata_cxx.cpp.o.d"
+  "tests/runtests_cxx"
+  "tests/runtests_cxx.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/runtests_cxx.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

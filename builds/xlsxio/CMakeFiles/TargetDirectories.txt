@@ -1,0 +1,14 @@
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/xlsxio_read_STATIC.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/xlsxio_write_STATIC.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/xlsxio_xlsx2csv.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/xlsxio_csv2xlsx.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/example_xlsxio_write_getversion.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/example_xlsxio_write.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/example_xlsxio_read.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/example_xlsxio_read_advanced.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/edit_cache.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/rebuild_cache.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/list_install_components.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/install.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/install/local.dir
+/Users/lloydna/Projects/misc/vxlsx_io/builds/xlsxio/CMakeFiles/install/strip.dir

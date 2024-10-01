@@ -1,0 +1,37 @@
+Start testing: Sep 30 20:46 CST
+----------------------------------------------------------
+1/2 Testing: runtests
+1/2 Test: runtests
+Command: "/bin/bash" "run.sh" "/Users/lloydna/Projects/misc/vxlsx_io/builds/libexpat/tests/runtests"
+Directory: /Users/lloydna/Projects/misc/vxlsx_io/builds/libexpat
+"runtests" start time: Sep 30 20:46 CST
+Output:
+----------------------------------------------------------
+Expat version: expat_2.6.3
+100%: Checks: 4368, Failed: 0
+<end of output>
+Test time =   5.07 sec
+----------------------------------------------------------
+Test Passed.
+"runtests" end time: Sep 30 20:46 CST
+"runtests" time elapsed: 00:00:05
+----------------------------------------------------------
+
+2/2 Testing: runtests_cxx
+2/2 Test: runtests_cxx
+Command: "/bin/bash" "run.sh" "/Users/lloydna/Projects/misc/vxlsx_io/builds/libexpat/tests/runtests_cxx"
+Directory: /Users/lloydna/Projects/misc/vxlsx_io/builds/libexpat
+"runtests_cxx" start time: Sep 30 20:46 CST
+Output:
+----------------------------------------------------------
+Expat version: expat_2.6.3
+100%: Checks: 4368, Failed: 0
+<end of output>
+Test time =   5.55 sec
+----------------------------------------------------------
+Test Passed.
+"runtests_cxx" end time: Sep 30 20:46 CST
+"runtests_cxx" time elapsed: 00:00:05
+----------------------------------------------------------
+
+End testing: Sep 30 20:46 CST

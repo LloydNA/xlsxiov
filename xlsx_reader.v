@@ -1,4 +1,4 @@
-module vxlsxio
+module xlsxiov
 
 // C Constants / Macros
 pub const xlsxioread_skip_none = C.XLSXIOREAD_SKIP_NONE

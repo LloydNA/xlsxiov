@@ -1,4 +1,4 @@
-module vxlsxio
+module xlsxiov
 
 #flag -lz
 #flag -lcrypto
@@ -12,4 +12,4 @@ module vxlsxio
 #include <xlsxio_read.h>
 #include <xlsxio_write.h>
 
-pub const vxlsxio_null = unsafe { nil }
+pub const xlsxiov_null = unsafe { nil }
